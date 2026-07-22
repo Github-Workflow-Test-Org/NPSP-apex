@@ -14,7 +14,7 @@ In 2023, Salesforce launched the Nonprofit Cloud which is at the foundation of S
 ---
 ### For Nonprofit Success Pack Users and admins
 
-* Check out existing [Nonprofit feature and enhancement requests](https://ideas.salesforce.com/s/search#t=All&sort=relevancy&f:@sfcategoryfull=[Nonprofit%7CNonprofit%20Cloud,Nonprofit%7CNonprofit%20Success%20Pack%20(NPSP)%20-%20Managed%20Package]).
+* Check out existing [Nonprofit feature and enhancement requestds](https://ideas.salesforce.com/s/search#t=All&sort=relevancy&f:@sfcategoryfull=[Nonprofit%7CNonprofit%20Cloud,Nonprofit%7CNonprofit%20Success%20Pack%20(NPSP)%20-%20Managed%20Package]).
 * [Ask questions or get help with the Nonprofit Success Pack](https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000kHitSAE)
 * [Ask for support or questions with other Nonprofit Users and Partners](https://trailhead.salesforce.com/trailblazer-community/groups/0F9300000001ocxCAA)
 * [Nonprofit Success Pack (NPSP) Documentation](https://help.salesforce.com/s/articleView?id=sfdo.Nonprofit_Success_Pack.htm)
